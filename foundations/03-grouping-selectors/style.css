@@ -1,0 +1,13 @@
+.click,
+.noclick {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.click {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+}
+
+.noclick {
+  background-color: hsl(60, 100%, 50%);
+}
